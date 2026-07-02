@@ -1,0 +1,4 @@
+interface:
+  display_name: "超脑俱乐部日报 2.0"
+  short_description: "为认知焦虑和成长焦虑用户生成 1 条全球形势、4 条贴近生活的国内新闻、多学科分析、GitHub 工具、哲学故事、口才训练和每日深度哲思"
+  default_prompt: "Use $run-today-growth-ops-v2 to generate today's 超脑俱乐部日报 for cognitively anxious and growth-anxious users."
